@@ -4,6 +4,13 @@ Note: this changelog is for the shields.io server. The changelog for the badge-m
 
 ---
 
+## server-2025-06-01
+
+- running on node version 18, 20, 22
+- use SVG2 hrefs [#10918](https://github.com/badges/shields/issues/10918)
+- remove `logoWidth` param [#10878](https://github.com/badges/shields/issues/10878)
+- Dependency updates
+
 ## server-2025-03-02
 
 - time out long running requests more aggressively [#10833](https://github.com/badges/shields/issues/10833)
